@@ -3,10 +3,10 @@
 # Site wide configuration
 ####################################
 #
-title: Leonids
-email: zourenyuan@gmail.com
+title: Yaein Jung
+email: yaein.jung@gmail.com
 description: A simple and awesome blog theme powered by jekyll.
-url: https://renyuanz.github.io/leonids # the base hostname & protocol for your site
+url: https://yaeinjung.github.io/blog/ # the base hostname & protocol for your site
 keywords: ["Programming", "PHP", "Ruby"]
 
 #
@@ -14,7 +14,7 @@ keywords: ["Programming", "PHP", "Ruby"]
 # Jekyll configuration
 ####################################
 #
-timezone:          Europe/Paris
+timezone:          Seoul/Asia
 markdown:          kramdown
 highlighter:       rouge
 excerpt_separator: <!--more-->
