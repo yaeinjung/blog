@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How to make vlog"
+title:  "How to make blog"
 date:   2018-07-09 15:07:19
 categories: [tutorial]
 comments: true
